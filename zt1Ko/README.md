@@ -1,0 +1,8 @@
+# zt1Ko
+
+¡MANIPULAR ESTE ARCHIVO CON CUIDADO SI SE LLEGA A UTILIZAR DE FORMA INCORRECTA PODRIA TENER GRAVES CONSECUENCIAS EN SU SISTEMA OPERATIVO!
+
+
+puede personalizar el nombre de el archivo "app name.bat"
+
+  (by S4vana)
